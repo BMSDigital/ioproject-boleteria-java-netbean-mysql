@@ -57,7 +57,7 @@ Configuracion de destino
 ![Configuracion de destino](https://user-images.githubusercontent.com/93888388/156247809-902200f7-2a1a-4e0d-a665-768b35a146e1.PNG)
 
 Ruta de recorrido del tren
-![Uploading sist ferroviario simon bolivar.jpg…]()
+![sist ferroviario simon bolivar](https://user-images.githubusercontent.com/93888388/156248262-c4b70db3-2a28-4740-9b4d-33586f9ecd2d.jpg)
 
 ### Notes
 Si desean contactar para dialogar acerca del proyecto les dejo un link [Linkedin](www.linkedin.com/in/fraiberth-bracho)
