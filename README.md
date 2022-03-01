@@ -39,6 +39,7 @@ NetBeans - 12.4
 ## Vista del sitio
 
 Interface Inicio de sesion
+
 ![Inicio de sesion](https://user-images.githubusercontent.com/93888388/156246912-94fa701b-56a6-479e-b552-0f71a3ddd747.PNG)
 
 Menu principal
